@@ -1,8 +1,11 @@
-# dsaf
+
+  ![GitHub license](https://img.shields.io/badge/license-Mozilla_Public_License_2.0-blue.svg)
+  
+  # Node README Generator
 
   ## Description
   ---
-  dsaf
+  This is a command line application that generates a README.md file for your applications based on a series of inquiries.
 
   ## Table of Contents (Optional)
   ---
@@ -13,13 +16,20 @@
 
   ## Installation
   ---
-  sadf
+  Must initialize node_modules to use
 
   ## Usage
   ---
-  sadfdsaf
+  
 
-  ![GitHub license](https://img.shields.io/badge/license-GNU_AGPLv3-blue.svg)
   ## License
     
-    This project is licensed under the GNU_AGPLv3 license.
+    This project is licensed under the Mozilla_Public_License_2.0 license.
+
+  ## Contributing
+  ---
+  
+
+  ## Questions
+  ---
+  Direct any questions to [My Github](#https://github.com/Garttheskeleton) or email me at [gmhobson@gmail.com](gmhobson@gmail.com)
